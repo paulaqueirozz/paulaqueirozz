@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BCC1C3&width=435&lines=hello!+my+name+is+paula+queiroz;i'm+student+of+data+science;girl+from+brazil!+)](https://git.io/typing-svg)
 
-
 ## 🕮 **Formação** 
 
 👩🏻‍💻Atualmente estudante de Ciência de dados pela EBAC:
