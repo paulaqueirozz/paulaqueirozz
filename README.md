@@ -4,7 +4,7 @@
 
 ## 🕮 **Formação** 
 
-👩🏻‍💻Atualmente estudante de Ciência de dados pela EBAC:
+👩🏻‍💻Atualmente estudante de **Ciência de Dados** pela **EBAC**:
 * Machine learning;
 * Python, SQL, Cloud.
 
